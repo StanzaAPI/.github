@@ -28,6 +28,13 @@ Official zero-dependency clients for Python, TypeScript, Rust, and C# are publis
 - Pricing: https://stanzaapi.com/pricing
 - OpenAPI specs: `https://api.stanzaapi.com/<api-slug>/openapi.json`
 
+## Engineering
+
+- [Engineering notes](https://github.com/StanzaAPI/engineering-notes): a public log of experiments, failures, and what changed afterward.
+- [Benchmark harness](https://github.com/StanzaAPI/benchmark-harness): reproducible throughput and memory benchmarks, including a head-to-head of the X12 parser against established open-source alternatives.
+- [X12 test data](https://github.com/StanzaAPI/x12-test-data): deterministic synthetic corpora plus cataloged adversarial cases for testing X12 parsers.
+
+
 ## Contact
 
 - Support: support@stanzaapi.com
