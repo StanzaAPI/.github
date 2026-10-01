@@ -35,6 +35,13 @@ Official zero-dependency clients for Python, TypeScript, Rust, and C# are publis
 - [X12 test data](https://github.com/StanzaAPI/x12-test-data): deterministic synthetic corpora plus cataloged adversarial cases for testing X12 parsers.
 
 
+## Open test data
+
+Free, CC0-1.0 test data for regulated B2B formats — deterministic, engine-validated where the format has a check digit, JSON and CSV, small/medium/large.
+
+- [All datasets](https://stanzaapi.com/datasets) — 13 formats
+- [IBAN](https://github.com/StanzaAPI/iban-test-data) · [LEI](https://github.com/StanzaAPI/lei-test-data) · [VAT](https://github.com/StanzaAPI/vat-test-data) · [Container](https://github.com/StanzaAPI/container-test-data) · [IATA AWB](https://github.com/StanzaAPI/iata-awb-test-data) · [GS1 GTIN](https://github.com/StanzaAPI/gs1-gtin-test-data) · [UDI](https://github.com/StanzaAPI/udi-test-data) · [ISO 20022](https://github.com/StanzaAPI/iso20022-test-data) · [Peppol](https://github.com/StanzaAPI/peppol-test-data) · [Factur-X](https://github.com/StanzaAPI/factur-x-test-data) · [CBAM](https://github.com/StanzaAPI/cbam-test-data) · [EPCIS](https://github.com/StanzaAPI/epcis-test-data)
+
 ## Contact
 
 - Support: support@stanzaapi.com
